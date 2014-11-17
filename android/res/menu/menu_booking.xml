@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ph.txtdis.android.MainActivity" >
+
+    <item
+        android:id="@+id/menu_update"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_update"/>
+    <item
+        android:id="@+id/menu_outlets"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_outlets"/>
+    <item
+        android:id="@+id/menu_new"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_new"/>
+    <item
+        android:id="@+id/menu_save"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_save"/>
+    <item
+        android:id="@+id/menu_back"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_back"/>
+    <item
+        android:id="@+id/menu_open"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_open"/>
+    <item
+        android:id="@+id/menu_next"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_next"/>
+    <item
+        android:id="@+id/menu_upload"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_upload"/>
+
+</menu>

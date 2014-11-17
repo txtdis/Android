@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">txtDIS</string>
+    <string name="menu_update">Update</string>
+    <string name="menu_items">Items</string>
+    <string name="menu_outlets">Outlets</string>
+    <string name="menu_new">New</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_next">Next</string>
+    <string name="menu_goto">Go To</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_upload">Upload</string>
+    <string name="booking">Sales Order Booking</string>
+    <string name="booking_id">S/O No.</string>
+    <string name="delivery_date">Delivery Date</string>
+    <string name="customer_id">Outlet No.</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="remarks">Remarks</string>
+    <string name="item_id">Item No.</string>
+    <string name="qc">QC</string>
+    <string name="quality">Quality</string>
+    <string name="uom">UOM</string>
+    <string name="unit">Unit</string>
+    <string name="qty">Qty</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="vatable">VATable</string>
+    <string name="vat">VAT</string>
+    <string name="total">Total</string>
+    <string name="customer">Customer Master</string>
+    <string name="street">Street</string>
+    <string name="barangay">Barangay</string>
+    <string name="city">City</string>
+    <string name="province">Province</string>
+    <string name="item">Item Master</string>
+    <string name="description">Description</string>
+    <string name="booking_dialog">Booking Detail Entry</string>
+    <string name="add">Add</string>
+    <string name="ok">OK</string>
+    <string name="search">Search</string>
+    <string name="discount">Discount</string>
+    
+    <string-array name="uom_array">
+        <item>PC</item>
+        <item>CS</item>
+    </string-array>
+    <string-array name="qc_array">
+        <item>GOOD</item>
+        <item>HOLD</item>
+        <item>BAD</item>
+    </string-array>
+
+</resources>
